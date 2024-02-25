@@ -11,7 +11,6 @@ body {
     width: 1200px;
     display: flex;
     margin: 0 auto;
-    background-color: aquamarine;
 }
 .main {
     display: flex;
@@ -19,12 +18,14 @@ body {
     width: 85%;
 }
 .menu {
-    width: 15%;
-    background-color: aqua;
+    width: 20%;
     padding: 10px 20px 0px;
+    list-style-type: none;
+}
+.menu ul {
+    list-style-type: none;
 }
 .header {
-    background-color: rgb(5, 108, 108);
     min-height: 150px;
 }
 .content {
@@ -33,6 +34,11 @@ body {
     padding: 20px;
 }
 .footer {
-    background-color: rgb(99, 56, 240);
     min-height: 150px;
+    font-size: 10px;
+}
+
+.footer ul {
+    list-style-type: none;
+    font-size: 16px;
 }
