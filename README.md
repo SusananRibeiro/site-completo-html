@@ -14,6 +14,7 @@ A estrutura deste repositório é organizada de forma a facilitar a navegação 
 ### Tecnologias:
 * Visual Studio Code
 * HTML 5
+* CSS
 
 ### Obs:
 Para testar os códigos, clone este repositório na sua
